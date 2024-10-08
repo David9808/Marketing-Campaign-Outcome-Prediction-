@@ -1,0 +1,1 @@
+In my first machine learning project, I analyzed a dataset from the UCI machine learning repository and built a decision tree classifier to predict the outcome of a marketing campaign on bank customers.
